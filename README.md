@@ -36,10 +36,11 @@ resourceful api
 
 e.g. having a url for data (like firebase)
 
+
 ## Representational State Transfer
 
 
 
 Credits:
 
-@a1arias
+![a1arias](https://github.com/a1arias)
