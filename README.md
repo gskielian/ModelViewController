@@ -43,4 +43,4 @@ e.g. having a url for data (like firebase)
 
 Credits:
 
-![a1arias](https://github.com/a1arias)
+[a1arias](https://github.com/a1arias)
